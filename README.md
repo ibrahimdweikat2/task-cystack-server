@@ -9,6 +9,8 @@
 
 ## To Run Laravel
 
+first: create a new file .env and copy all things in .env.example to .env
+
 ## The first Command is : composer install
 
 ## The second Command is : composer dump-autoload
