@@ -7,7 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## php artisan serve
+## To Run Laravel
+
+## The first Command is : composer install
+
+## The second Command is : composer dump-autoload
+
+## then : php artisan serve
 this command to Start a server
 
 ## php artisan schedule:run
